@@ -2,6 +2,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<a href="form">SpringMVC表单标签的使用</a>
+<a href="register">Welcome</a>
 </body>
 </html>
