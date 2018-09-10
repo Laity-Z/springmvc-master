@@ -3,9 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>cn.edu.cap</groupId>
   <artifactId>springmvc1</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>springmvc1 Maven Webapp</name>
+    <modules>
+        <module>../springmvc3</module>
+    </modules>
+    <name>springmvc1 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
