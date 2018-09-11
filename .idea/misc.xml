@@ -5,17 +5,16 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc2" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc3" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc4" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc5" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springmvc1/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc2/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc5/pom.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/springmvc3/src/main/webapp/WEB-INF/jsp.jsp" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
