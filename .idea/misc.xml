@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mybatisl" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc1" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc2" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc3" />

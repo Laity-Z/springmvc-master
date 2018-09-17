@@ -7,7 +7,10 @@
   <groupId>cn.edu.cap</groupId>
   <artifactId>springmvc6</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+    <modules>
+        <module>../mybatisl</module>
+    </modules>
+    <packaging>pom</packaging>
 
   <name>springmvc6 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
