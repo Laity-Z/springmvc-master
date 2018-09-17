@@ -7,7 +7,10 @@
     <groupId>cn.edu.cap</groupId>
     <artifactId>mybatis1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <modules>
+        <module>../ssm1</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>mybatis1 Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
